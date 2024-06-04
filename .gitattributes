@@ -1,0 +1,4 @@
+data/cached-data/rfe.rds filter=lfs diff=lfs merge=lfs -text
+data/RideShare_train.csv filter=lfs diff=lfs merge=lfs -text
+models/bayesglm_model.rds filter=lfs diff=lfs merge=lfs -text
+models/glm_model.rds filter=lfs diff=lfs merge=lfs -text
